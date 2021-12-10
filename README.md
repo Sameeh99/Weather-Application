@@ -1,0 +1,2 @@
+# Weather-Application
+Weather Application in JavaScript using Open Weather Map API. Using this API, we can get weather data for each coordinate.Weather is a huge part of our daily lives. As such, there is always a need for websites and mobile apps to report on it. Users will want to check out anything from the current conditions outside their house to the forecast for their favorite vacation spot.
